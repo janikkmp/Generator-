@@ -320,4 +320,3 @@ Update `CLAUDE.md` whenever:
 - New keyboard shortcuts or filter options are added
 
 The goal is to keep this file accurate as a first-read for any AI assistant.
- 
