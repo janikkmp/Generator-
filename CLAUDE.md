@@ -8,7 +8,6 @@ working in this repository.
 ## Repository Overview
 
 **Project:** Generator- / Prompt Manager Pro
-**Author:** janikkmp
 **Type:** Single-file HTML web application (no build system, no external JS frameworks)
 **Language:** German UI
 
