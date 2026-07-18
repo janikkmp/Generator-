@@ -88,7 +88,6 @@ const PROMPTS = [ /* objects */ ];
 
 ### Prompt categories (`cn` values)
 
-Feed-based: `giannanna Feed 1–5`, `lizakovalenkokoo Feed 1–4`, `vikitoriakpa Feed 1–3`,
 `Einzelbilder–Special`
 
 Thematic: `Wüste·Marokko·Boho`, `Penthouse·Skyline·Rooftop`, `Bali·Dschungel·Wasserfälle`,
